@@ -1,0 +1,41 @@
+PRIVACY POLICY — tiktok-autopilot (updated October 1, 2026)
+
+1. Overview: tiktok-autopilot is a personal developer tool that publishes video content to a TikTok account on behalf of the account owner, operated privately by the owner for their own use.
+
+2. Data We Collect: The tool stores the OAuth access token and refresh token issued by TikTok. These tokens are the only user data retained. They are saved locally on the owner's device and are never transmitted to any third-party server. No name, phone number, email, password, message, comment, or follower data is collected or processed.
+
+3. How Data Is Used: Tokens are used solely to authenticate requests to the official TikTok Content Posting API for uploading video files the owner has designated for publication. They are never used for advertising, profiling, or analytics.
+
+4. Data Sharing: We do not sell, rent, trade, or share your data with third parties. All API requests go directly from the owner's device to TikTok's servers.
+
+5. Storage and Security: Credentials are stored in a local configuration file with restricted permissions on the owner's device. They are never committed to version control or transmitted over the network by this tool.
+
+6. Retention and Deletion: Tokens are kept until the owner deletes the local configuration file or TikTok invalidates them. Deleting the file permanently removes all stored data.
+
+7. Your Rights: You may revoke access at any time through TikTok's Manage Apps settings, which immediately invalidates the stored tokens.
+
+8. Children: This tool is not directed to anyone under 18.
+
+9. Changes: Changes will be posted on this page with an updated date.
+
+10. Contact: Via the TikTok account associated with this tool.
+
+============================================================
+
+TERMS OF SERVICE — tiktok-autopilot (updated October 1, 2026)
+
+1. Acceptance: By authorizing this tool to access your TikTok account, you agree to these terms and to the TikTok Terms of Service and Community Guidelines.
+
+2. What This Tool Does: It uploads video files you select using the official TikTok Content Posting API. It acts on your instruction only. It does not generate content without your approval and does not interact with comments, direct messages, or other users.
+
+3. Your Responsibilities: You retain full responsibility for all content published through this tool. You must have the legal right to publish every file you upload, including music, images, and likenesses. Content must comply with the Community Guidelines and applicable law. Spam, deceptive content, and misleading metadata are prohibited.
+
+4. Commercial Content: If you publish sponsored or affiliate content, you remain responsible for the accuracy of disclosures and compliance with advertising requirements.
+
+5. Availability: Provided as-is, without warranty. It depends on the continued availability of the TikTok for Developers platform.
+
+6. Termination: You may stop using the tool at any time by revoking access in TikTok settings and deleting the local configuration file. TikTok may revoke access for violations of its terms.
+
+7. Limitation of Liability: To the maximum extent permitted by law, the operator is not liable for account suspension, content removal, or lost reach.
+
+8. Changes: Changes will be posted on this page with an updated date. Continued use constitutes acceptance.
